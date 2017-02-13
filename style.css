@@ -1,0 +1,17 @@
+p {
+    float: left;
+    margin-bottom: 100px;
+    background-color: aquamarine;
+    border: 10px dashed blue; 
+}
+
+.one {
+    position: fixed;
+    opacity: 0.6;
+}
+
+.two {
+    
+    position: relative;
+    
+}
